@@ -10,7 +10,7 @@ The purpose of the Incident Response Training Team is to help organizational lea
 
 The Incident Response Training Team is actively in the process of creating this training with the goal of running a beta version of the full training June 26th, 2015 at [Open Source Bridge](http://opensourcebridge.org/). If you would like to attend, please email shawnatyger@gmail.com.
 
-To learn more, you can read the [current outline](stumpsyn/incident-response/content/outline.md), or [get involved](#Get_involved).
+To learn more, you can read the [current outline](content/outline.md), or [get involved](#get-involved).
 
 ## Code of conduct
 
@@ -38,4 +38,4 @@ Generally, meetings are held twice a month in the evening. Please join [the Goog
 
 ## Resources
 
-Please check our list of [resources](stumpsyn/incident-response/resources/resources.md), and list of [effective community responses](stumpsyn/incident-response/resources/effective-community-responses.md) to incidents for more information on dealing with incidents and conflict in your communities.
+Please check our list of [resources](resources/resources.md), and list of [effective community responses](resources/effective-community-responses.md) to incidents for more information on dealing with incidents and conflict in your communities.
