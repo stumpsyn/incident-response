@@ -58,3 +58,6 @@
 ## Roleplay
 
 ## Conclusion (wrap-up)
+
+* Follow up materials for take-home reading?
+* How to get help if attendees get stuck or need more advice and support
