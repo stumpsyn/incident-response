@@ -36,6 +36,10 @@ Generally, meetings are held twice a month in the evening. Please join [the Goog
 
 [Meeting minutes](https://drive.google.com/open?id=0B2k9LgLmtlebfkh3UGx4U25PekFUYmZsbnhLQkh3MjYxOGxUNG1JSWxMWFZkVHBmc1puRG8&authuser=1) are stored in Google Drive and only shared with members of our [Google group](https://groups.google.com/forum/?hl=en#!forum/pdx-incident-response-team) to help maintain the privacy of our volunteers.
 
+###Not sure how to use Git? 
+
+Github can get you started: https://help.github.com/categories/bootcamp/
+
 ## Resources
 
 Please check our list of [resources](resources/resources.md), and list of [effective community responses](resources/effective-community-responses.md) to incidents for more information on dealing with incidents and conflict in your communities.
