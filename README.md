@@ -16,7 +16,7 @@ To learn more, you can read the [current outline](content/outline.md), or [get i
 
 As a project of [Stumptown Syndicate](http://stumptownsyndicate.org/), all volunteers and participants are expected to abide by the [Stumptown Syndicate code of conduct](http://stumptownsyndicate.org/code-of-conduct/). In case of a code of conduct-related report, we will use the [Stumptown Syndicate reporting guidelines](http://stumptownsyndicate.org/code-of-conduct/reporting-guidelines/).
 
-Reports can be made directly through Stumptown Syndicate (as indicated in section 9 of the [code of conduct](http://stumptownsyndicate.org/code-of-conduct/)), or directly to Shawna Scott at shawnatyger@gmail.com.
+Reports can be made directly through Stumptown Syndicate (as indicated in section 9 of the [code of conduct](http://stumptownsyndicate.org/code-of-conduct/)), or directly to TBD.
 
 ## Get involved
 
